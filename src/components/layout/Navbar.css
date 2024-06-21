@@ -1,0 +1,18 @@
+.nav-bar {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-links .nav-link  a{
+    text-decoration: none;
+    padding: 24px 24px;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+  }
+
+  .active{
+    background-color: gray;
+  }
